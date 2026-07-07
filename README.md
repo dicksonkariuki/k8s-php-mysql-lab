@@ -1,5 +1,5 @@
 # k8s-php-mysql-lab
-This repository contains a containerized and deployed a simple PHP application connected to a MySQL database and managed through phpMyAdmin on kubernetes
+This repository contains a containerized and deployed simple PHP application connected to a MySQL database and managed through phpMyAdmin on kubernetes
 
 # Build the application frontend and backend.
 ![alt text](<Screenshot 2026-07-07 074726.png>)
@@ -60,7 +60,7 @@ Delete a pod and watch kubernetes recreate it .
 
 ![alt text](<Screenshot 2026-07-07 120358.png>)
 
-Deleted pod is automatically recreated.This shows kubernetes elf healing capabilities.
+Deleted pod is automatically recreated.This shows kubernetes self healing capabilities.
 
 
 
